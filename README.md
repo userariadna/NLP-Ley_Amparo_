@@ -1,6 +1,7 @@
 # NLP-Ley_Amparo_
 The following pdf is the next content for all the files.
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf
+#Code #1
 
 The base of this article is the natural language preprocessing for legal texts.
 
@@ -19,6 +20,9 @@ that  we are navigating does not need to have sparate axes for a word and that w
 (for example, eat and eating, don't need to be two separate axis).Therefore, we should reduce each word's 
 inflected form to its root form. However, thsis approach has its critics because in manycases, inflected word 
 froms give a different meaning than the root word. Therefore,you must perform stemming and lemmatization after c
-considering its pros and cosnt.
+considering its pros and cons.
+
+In the first code example,stemming was able to transform more words than lemmatizing, but even this is far from perfect.
+
 
 Fore more information read Hands on Python Natural Language Preprocessing 
