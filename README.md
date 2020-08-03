@@ -6,7 +6,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf
 
 
 
-The base of this article is the natural language preprocessing for legal texts.
+The base of this article is the natural language processing 
 
 What is Text processing?
 A keypart of NLP is transforming text into mathematical objects.NLTK provides various functions that help us 
