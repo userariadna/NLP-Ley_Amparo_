@@ -1,7 +1,5 @@
 # NLP-Ley_Amparo_
-The following pdf is the next content for all the files.
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf
-#Code #1
+
 
 
 
